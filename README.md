@@ -1,3 +1,3 @@
-Brite Sparx Café is a Point-of-Sale (POS) and Inventory Management System developed as a university software engineering project for a convenience café serving students around the UKZN Westville campus.
+The Brite Sparx POS & Inventory Management System is a desktop application developed to modernise the daily operations of Brite Sparx Café. The system enables employees and managers to process customer transactions, manage inventory, maintain product information, monitor business performance, and generate reports through a secure role-based environment.
 
-The project was designed to modernise the café's operations by combining a desktop POS application with an online ordering platform. The solution streamlines sales processing, inventory management, customer ordering, employee management, and business reporting while providing a more efficient experience for both customers and staff
+The solution was developed as part of a university software engineering project, with a focus on improving operational efficiency and reducing manual processes.
